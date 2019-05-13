@@ -1,0 +1,12 @@
+img {
+  width: 375px;
+  height: 300px;
+}
+
+body {
+  background-image: url("https://media.giphy.com/media/14kqI3Y4urS3rG/giphy.gif")
+}
+
+h1, p {
+  color: white;
+}
